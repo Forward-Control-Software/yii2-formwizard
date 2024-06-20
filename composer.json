@@ -1,5 +1,5 @@
 {
-    "name": "buttflattery/yii2-formwizard",
+    "name": "fcs/yii2-formwizard",
     "description": "A yii2 widget for form wizard, to create a multistep form.",
     "type": "yii2-extension",
     "require": {
